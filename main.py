@@ -253,6 +253,7 @@ html_t1 = f'''
     </head>
     <body>
         <header>
+            <a href="/index.html">Home</a>
             <a href="/t1.html">Tier 1</a>
             <a href="/t2.html">Tier 2</a>
             <a href="/t3.html">Tier 3</a>
@@ -278,6 +279,7 @@ html_t2 = f'''
     </head>
     <body>
         <header>
+            <a href="/index.html">Home</a>
             <a href="/t1.html">Tier 1</a>
             <a href="/t2.html">Tier 2</a>
             <a href="/t3.html">Tier 3</a>
@@ -303,6 +305,7 @@ html_t3 = f'''
     </head>
     <body>
         <header>
+            <a href="/index.html">Home</a>
             <a href="/t1.html">Tier 1</a>
             <a href="/t2.html">Tier 2</a>
             <a href="/t3.html">Tier 3</a>
@@ -329,9 +332,12 @@ html_index = f'''
     </head>
     <body>
         <header>
+            <a href="/index.html">Home</a>
+            <a href="/t1.html">Tier 1</a>
+            <a href="/t2.html">Tier 2</a>
+            <a href="/t3.html">Tier 3</a>
         </header>
         <main>
-            {html_colors}
         </main>
         <footer>
         </footer>
