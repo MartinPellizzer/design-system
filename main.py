@@ -11,70 +11,70 @@ html_colors += f'<p>color | brand | blue</p>'
 html_colors += f'<div style="display: flex;">'
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_50};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_50};"></div>
         <p>50</p>
         {ds.color_brand_blue_50}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_100};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_100};"></div>
         <p>100</p>
         {ds.color_brand_blue_100}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_200};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_200};"></div>
         <p>200</p>
         {ds.color_brand_blue_200}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_300};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_300};"></div>
         <p>300</p>
         {ds.color_brand_blue_300}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_400};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_400};"></div>
         <p>400</p>
         {ds.color_brand_blue_400}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_500};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_500};"></div>
         <p>500</p>
         {ds.color_brand_blue_500}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_600};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_600};"></div>
         <p>600</p>
         {ds.color_brand_blue_600}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_700};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_700}; border-radius: 9999px;"></div>
         <p>700</p>
         {ds.color_brand_blue_700}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_800};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_800};"></div>
         <p>800</p>
         {ds.color_brand_blue_800}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_blue_900};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_900};"></div>
         <p>900</p>
         {ds.color_brand_blue_900}
     </div>
@@ -88,72 +88,149 @@ html_colors += f'<p>color | brand | grey</p>'
 html_colors += f'<div style="display: flex;">'
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_50};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_50};"></div>
         <p>50</p>
         {ds.color_brand_grey_50}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_100};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_100};"></div>
         <p>100</p>
         {ds.color_brand_grey_100}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_200};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_200};"></div>
         <p>200</p>
         {ds.color_brand_grey_200}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_300};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_300};"></div>
         <p>300</p>
         {ds.color_brand_grey_300}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_400};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_400};"></div>
         <p>400</p>
         {ds.color_brand_grey_400}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_500};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_500};"></div>
         <p>500</p>
         {ds.color_brand_grey_500}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_600};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_600};"></div>
         <p>600</p>
         {ds.color_brand_grey_600}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_700};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_700};"></div>
         <p>700</p>
         {ds.color_brand_grey_700}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_800};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_800};"></div>
         <p>800</p>
         {ds.color_brand_grey_800}
     </div>
 '''
 html_colors += f'''
     <div style="display: flex; flex-direction: column;">
-        <div style="width: 64px; height: 64px; background-color: {ds.color_brand_grey_900};"></div>
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_grey_900}; border-radius: 9999px;"></div>
         <p>900</p>
         {ds.color_brand_grey_900}
+    </div>
+'''
+html_colors += f'</div>'
+html_colors += f'</section>'
+
+# ;color_blue_grey
+html_colors += f'<section style="margin-bottom: 96px;">'
+html_colors += f'<p>color | brand | blue grey</p>'
+html_colors += f'<div style="display: flex;">'
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_50};"></div>
+        <p>50</p>
+        {ds.color_brand_blue_grey_50}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_100};"></div>
+        <p>100</p>
+        {ds.color_brand_blue_grey_100}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_200};"></div>
+        <p>200</p>
+        {ds.color_brand_blue_grey_200}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_300};"></div>
+        <p>300</p>
+        {ds.color_brand_blue_grey_300}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_400};"></div>
+        <p>400</p>
+        {ds.color_brand_blue_grey_400}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_500};"></div>
+        <p>500</p>
+        {ds.color_brand_blue_grey_500}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_600};"></div>
+        <p>600</p>
+        {ds.color_brand_blue_grey_600}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_700};"></div>
+        <p>700</p>
+        {ds.color_brand_blue_grey_700}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_800}; border-radius: 9999px;"></div>
+        <p>800</p>
+        {ds.color_brand_blue_grey_800}
+    </div>
+'''
+html_colors += f'''
+    <div style="display: flex; flex-direction: column;">
+        <div style="width: 96px; height: 96px; background-color: {ds.color_brand_blue_grey_900};"></div>
+        <p>900</p>
+        {ds.color_brand_blue_grey_900}
     </div>
 '''
 html_colors += f'</div>'
